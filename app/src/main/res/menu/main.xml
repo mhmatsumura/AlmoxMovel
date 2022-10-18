@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.almoxmovel.MainActivity" >
+
+    <item
+        android:id="@+id/novo"
+        android:orderInCategory="100"
+        android:title="Novo"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/email"
+        android:orderInCategory="100"
+        android:title="Cadastrar email"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ultimo"
+        android:orderInCategory="100"
+        android:title="Último documento"
+        app:showAsAction="never"/>
+    
+
+</menu>

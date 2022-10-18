@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+
+  android:id="@+id/text2"
+  android:singleLine="true"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:ellipsize="marquee"
+  android:textSize="20sp"
+  android:textColor = "#FFFF00"
+  android:background = "#4682B4"
+  android:typeface="serif"
+  />
+
